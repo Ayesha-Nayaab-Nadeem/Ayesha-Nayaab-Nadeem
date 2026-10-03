@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 52" width="200" height="52" role="img" aria-labelledby="t d">
+<title id="t">01 PROFILE</title><desc id="d">01 PROFILE</desc>
+<defs><style>.serif{font-family:'Bodoni 72','Bodoni MT',Didot,'Playfair Display','Cormorant Garamond',Georgia,'Times New Roman',serif}.sans{font-family:'Helvetica Neue',Helvetica,Arial,'Segoe UI',Roboto,sans-serif}.mono{font-family:ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace;letter-spacing:.08em}</style><filter id="g" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="3" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 0.23 0 0 0 0 0.14 0 0 0 0 0.09 .22 0 0 0 -.02"/></filter></defs>
+<rect width="200" height="52" fill="#F3ECDD"/>
+<rect x=".5" y=".5" width="199" height="51" fill="none" stroke="#3B2418" stroke-width=".75"/><text x="14" y="32" class="mono" font-size="13" fill="#110E0D" text-anchor="start" >01 / PROFILE</text><text x="186" y="32" class="mono" font-size="13" fill="#3B2418" text-anchor="end" >↓</text>
+<rect width="200" height="52" filter="url(#g)"/>
+</svg>
