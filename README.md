@@ -1,107 +1,63 @@
-<p align="center">
-  <img src="./assets/banner.jpg" alt="Ayesha Nayaab Nadeem — Software Developer, UI/UX Designer, Security Enthusiast & Creative Technologist" width="100%">
-</p>
+<a name="top"></a>
+<img src="./assets/hero.svg" alt="Software Engineer and Creative Designer. Issue 01, Vol. 01, 2026. Currently building." width="100%">
 
-# Hey, I'm Ayesha Nayaab Nadeem 
+<img src="./assets/intro.svg" alt="I build what people feel. I work where engineering meets visual culture: systems, interaction, typography, motion, interfaces, architecture, usability, visual storytelling." width="100%">
 
-### Software Developer • UI/UX Designer • Security Enthusiast • Creative Technologist
+<img src="./assets/contents.svg" alt="Contents. 01 Profile, 02 Craft, 03 Selected Work, 04 Systems, 05 Now, 06 Contact." width="100%">
 
-I’m a Software Developer interested in the space where **software engineering, cybersecurity, intelligent systems, and human-centred design** meet.
+<p><a href="#profile"><img src="./assets/tab-profile.svg" alt="01 / PROFILE" width="32.8%"></a><a href="#craft"><img src="./assets/tab-craft.svg" alt="02 / CRAFT" width="32.8%"></a><a href="#work"><img src="./assets/tab-selected-work.svg" alt="03 / SELECTED WORK" width="32.8%"></a><a href="#systems"><img src="./assets/tab-systems.svg" alt="04 / SYSTEMS" width="32.8%"></a><a href="#now"><img src="./assets/tab-now.svg" alt="05 / NOW" width="32.8%"></a><a href="#contact"><img src="./assets/tab-contact.svg" alt="06 / CONTACT" width="32.8%"></a></p>
 
-I enjoy building technology that isn't just functional, but also **thoughtful, secure, accessible, intuitive, and well engineered**.
+<a name="profile"></a>
+<img src="./assets/profile.svg" alt="Profile 01. The person behind the interface. Software engineer and creative designer. Engineering decides how a thing works; design decides how it feels." width="100%">
 
-My approach goes beyond writing code. I like understanding the bigger picture of a digital system — from architecture and data to security, usability, accessibility, and the people who ultimately use it.
+<a name="craft"></a>
+<img src="./assets/craft.svg" alt="The Craft. Languages: JavaScript, TypeScript, Python. Frameworks: React, Next.js. Systems: APIs, architecture, databases, cloud. Design: Figma, typography, motion, design systems." width="100%">
 
----
+<img src="./assets/interlude.svg" alt="Figure 02. Abstract brutalist structure, light and shadow." width="100%">
 
-## About Me
+<a name="work"></a>
+<a href="https://github.com/[USERNAME]/[PROJECT-LINK-001]"><img src="./assets/project-001.svg" alt="Project 001, [PROJECT NAME]. Role: engineering and design. Click to view the project." width="100%"></a>
 
-I'm particularly interested in solving problems that require both **technical depth and creative thinking**.
+<a href="https://github.com/[USERNAME]/[PROJECT-LINK-002]"><img src="./assets/project-002.svg" alt="Project 002, [PROJECT NAME]. Click to view the project." width="100%"></a>
 
-I enjoy working across different areas of technology, including:
+<a href="https://github.com/[USERNAME]/[PROJECT-LINK-FEATURED]"><img src="./assets/featured.svg" alt="Featured 001. The Interface Study. Engineered and art directed. Click to view the project." width="100%"></a>
 
-- Software Development
-- Web Development
-- UI/UX & Visual Design
-- Cybersecurity
-- Machine Learning & Intelligent Systems
-- Databases & Backend Systems
-- Software Testing
-- Illustration & Graphic Design
-- Animation & Digital Media
+<a name="systems"></a>
+<img src="./assets/code-has-aesthetics.svg" alt="Code has aesthetics. Engineering gives the system structure. Design gives it character." width="100%">
 
-I believe good software rarely exists in isolation.
+<a href="https://github.com/[USERNAME]/[PROJECT-LINK-003]"><img src="./assets/project-003.svg" alt="Project 003, [PROJECT NAME]. Click to view the project." width="100%"></a>
 
-A well-engineered product needs more than code — it needs thoughtful design, reliable systems, security, accessibility, and an understanding of the humans interacting with it.
+<a href="https://github.com/[USERNAME]/[PROJECT-LINK-004]"><img src="./assets/project-004.svg" alt="Project 004, [PROJECT NAME]. Click to view the project." width="100%"></a>
 
----
+<img src="./assets/activity.svg" alt="Activity 2026. A contribution grid, one square per day, generated from the GitHub contribution calendar." width="100%">
 
-## What I'm Currently Doing
+<a name="now"></a>
+<img src="./assets/now.svg" alt="Now. Studio notes: what I am building, learning, experimenting with and thinking about." width="100%">
 
-I'm currently developing my skills as a Software Developer while exploring the intersection of:
+<a name="contact"></a>
+<img src="./assets/footer.svg" alt="Let's make something worth looking at. Commissions, collaborations, conversations about interfaces." width="100%">
 
-**Software Engineering × Security × Design × Intelligent Technology**
+<p><a href="https://github.com/[USERNAME]"><img src="./assets/link-github.svg" alt="GITHUB" width="24.6%"></a><a href="https://www.linkedin.com/in/[HANDLE]"><img src="./assets/link-linkedin.svg" alt="LINKEDIN" width="24.6%"></a><a href="https://[YOUR-SITE]"><img src="./assets/link-portfolio.svg" alt="PORTFOLIO" width="24.6%"></a><a href="mailto:[YOU@EXAMPLE.COM]"><img src="./assets/link-email.svg" alt="EMAIL" width="24.6%"></a></p>
 
-I'm working on strengthening my foundations in programming, web development, databases, software engineering, and cybersecurity while continuing to explore areas such as machine learning and intelligent applications.
+<img src="./assets/colophon.svg" alt="A.Y. / Digital Craft. Copyright 2026." width="100%">
 
-Alongside technical development, I'm interested in creating digital experiences through **UI/UX design, visual design, illustration, and creative technology**.
+<details>
+<summary><sub>PLAIN TEXT VERSION</sub></summary>
 
-I'm always looking for opportunities to turn ideas into real, usable systems — whether that's a web application, an interface, a prototype, or an experiment with emerging technology.
+**Software engineer + creative designer.** Issue 01, Vol. 01, 2026. Currently building.
 
----
+**I build what people feel.** I work where engineering meets visual culture: systems, interaction, typography, motion, interfaces, architecture, usability and visual storytelling. Rigorous underneath. Considered on the surface.
 
-## Tech Stack
+**Profile.** [NAME] is a software engineer and creative designer. Based in [CITY, COUNTRY]. Focus: [FOCUS AREA]. Discipline: engineering x design.
 
-### Programming
+**The craft.** Languages: JavaScript, TypeScript, Python. Frameworks: React, Next.js. Systems: APIs, architecture, databases, cloud. Design: Figma, typography, motion, design systems.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Selected work.** Four projects, plus a featured piece (The Interface Study). See the linked images above.
 
-### Web
+**Code has aesthetics.** Engineering gives the system structure. Design gives it character.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Now.** Building: [..]. Learning: [..]. Experimenting with: [..]. Thinking about: [..].
 
-### Development & Tools
+**Contact.** GitHub, LinkedIn, portfolio, email. A.Y. / Digital Craft. 2026.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- Databases
-- Web Development
-- Backend Development
-- Software Testing
-- Prototyping
-- Version Control
-
-### Design & Creative
-
-- UI/UX Design
-- Visual Design
-- Graphic Design
-- Illustration
-- Animation
-- Logo & Brand Design
-- Packaging Design
-- Digital Prototyping
-
----
-
-## Areas I'm Exploring
-
-I'm particularly curious about technologies and disciplines that sit at the edges of traditional software development.
-
-```text
-Software Engineering
-        │
-        ├── Cybersecurity
-        │
-        ├── Intelligent Systems
-        │
-        ├── Machine Learning
-        │
-        ├── UI / UX
-        │
-        ├── Accessibility
-        │
-        └── Human-Centred Design
+</details>
