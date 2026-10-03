@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Ayesha Nayaab Nadeem — Software Developer, UI/UX Designer, Security Enthusiast & Creative Technologist" width="100%">
+</p>
+
 # Hey, I'm Ayesha Nayaab Nadeem 
 
 ### Software Developer • UI/UX Designer • Security Enthusiast • Creative Technologist
