@@ -2,6 +2,79 @@
   <img src="./assets/banner.png" alt="Ayesha Nayaab Nadeem — Software Developer" width="100%">
 </p>
 
+<div align="center">
+
+<sub>ISSUE 01  ·  DIGITAL CRAFT  ·  2026</sub>
+
+<br><br>
+
+SOFTWARE
+ENGINEER
+
+<br>
+
+𝓪𝓷𝓭  𝓭𝓮𝓼𝓲𝓰𝓷𝓮𝓻
+
+<br>
+
+A Y
+
+ENGINEERING    DESIGN    CREATIVE TECHNOLOGY
+
+<br>
+
+<sub>● ONLINE    /    DIGITAL ATELIER    /    VOL. 01</sub>
+
+</div>
+
+<br>
+
+01 / PROFILE
+
+<br>
+
+<div align="right">
+
+𝓪 𝓵𝓲𝓽𝓽𝓵𝓮<br>
+𝓪𝓫𝓸𝓾𝓽 𝓶𝓮
+
+</div>
+
+<br>
+
+I build software with the same instinct I bring to design:
+
+notice the detail.
+
+I'm a software engineer and creative designer interested in the space where
+systems become experiences.
+
+I like taking complicated things apart, finding the essential structure,
+then rebuilding them into something that feels obvious, useful and quietly beautiful.
+
+I care about architecture.
+
+I care about typography.
+
+I care about interaction.
+
+And, occasionally, I care far too much about a 2px alignment.
+
+<br>
+
+<div align="center">
+
+ENGINEER    ×    DESIGNER    ×    MAKER
+
+<br>
+
+𝓼𝓸𝓯𝓽𝔀𝓪𝓻𝓮  𝓲𝓼  𝓪  𝓬𝓻𝓪𝓯𝓽
+
+</div>
+
+<br><br>
+
+
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
