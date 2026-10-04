@@ -9,7 +9,11 @@
 
 <br><br>
 
-# AYESHA NAYAAB NADEEM
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=GREETINGS!+;THIS+IS+AYESHA+NADEEM+;&center=true&size=30&color=F7B2D8&font=Fira+Code">
+  </a>
+</h1>
 
 ### Software engineer &  Creative director
 
@@ -63,11 +67,7 @@ I build software with the same instinct I bring to design: **notice the detail.*
                                                                                                             ·  · ····   ···
 </pre>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=GREETINGS!+;HELLO+WORLD!;&center=true&size=30&color=F7B2D8&font=Fira+Code">
-  </a>
-</h1>
+
 
 <pre>
     __________
