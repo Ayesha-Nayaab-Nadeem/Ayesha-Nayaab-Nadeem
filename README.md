@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Ayesha Nayaab Nadeem — Software Developer" width="100%">
+</p>
+
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
