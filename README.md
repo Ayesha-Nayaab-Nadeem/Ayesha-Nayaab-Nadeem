@@ -18,6 +18,11 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
 <a name="top"></a>
 <img src="./assets/hero.svg" alt="Software Engineer and Creative Designer. Issue 01, Vol. 01, 2026. Currently building." width="100%">
 
