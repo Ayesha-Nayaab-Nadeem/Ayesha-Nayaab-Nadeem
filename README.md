@@ -253,7 +253,7 @@ THINKING     →  how digital spaces can feel more human
 </p>
 
 <p align="center">
-  <img src="./assets/terinal_banner.png" alt="Banner" width="100%">
+  <img src="./assets/terminal_banner.png" alt="Banner" width="100%">
 </p>
 
 <details>
