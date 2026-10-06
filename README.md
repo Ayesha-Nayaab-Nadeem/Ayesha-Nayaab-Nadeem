@@ -1,5 +1,42 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
-  <img src="./assets/banner.png" alt="Ayesha Nayaab Nadeem — Software Developer" width="100%">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
 
@@ -25,20 +62,23 @@
 </div>
 
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-<a name="top"></a>
-<div align="left">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="110">
+</p>
 
-<div>
+> **I build software with an eye for detail.**
+>
+> Systems should work beautifully. Interfaces should feel inevitable.
+> Good design should disappear into the experience.
+
+I'm a **software engineer and creative designer** interested in the space where technology meets visual culture. I like complicated things. Not because they should stay complicated—but because there is something satisfying about taking them apart, finding the structure underneath, and rebuilding them into something **clear, useful, expressive and quietly beautiful.** My work sits somewhere between:
+
+`ENGINEERING`    `DESIGN`    `SYSTEMS`    `STORYTELLING`
+
+I care about architecture, interaction, typography, accessibility, visual systems, and the tiny details most people never notice. And yes, I have absolutely spent too long fixing a 2px alignment.
 
 <br>
-I build software with the same instinct I bring to design: **notice the detail.** I'm a software engineer and creative designer interested in the space where systems become experiences. I like taking complicated things apart, finding the essential structure, then rebuilding them into something that feels obvious, useful and quietly beautiful. I care about architecture. I care about typography. I care about interaction. And, occasionally, I care far too much about a 2px alignment.
 
-
-
-`ENGINEER`  `CREATIVE DIRECTOR`  `FULL STACK`
-
-</div>
+---
 
 
 <pre>
@@ -74,9 +114,7 @@ I build software with the same instinct I bring to design: **notice the detail.*
 
 <sub>NO. 01  ·  ABOUT ME  ·  PERSONNEL </sub>
 
-# 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮<br>
-
-# 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮
+# 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮
 
 </div>
 
@@ -109,9 +147,19 @@ const interests = {
 
 ```
 
-### Digital Practice
+# THE PRACTICE
 
-*A selection of tools that shape my day-to-day practice from writing software to designing the systems around it.*
+<div align="right">
+
+<sub>NO. 02  ·  CAPABILITIES  ·  THE WORKBENCH</sub>
+
+</div>
+
+<br>
+
+### 01 / Digital Practice
+
+*The tools that shape the way I build, design, test and ship.*
 
 <p align="left">
 <img src="https://img.shields.io/badge/React-F5EBDD?style=for-the-badge&logo=react&logoColor=9B2C2C"/>
@@ -119,12 +167,12 @@ const interests = {
 <img src="https://img.shields.io/badge/Flask-F5EBDD?style=for-the-badge&logo=flask&logoColor=9B2C2C"/>
 <img src="https://img.shields.io/badge/Git-F5EBDD?style=for-the-badge&logo=git&logoColor=9B2C2C"/>
 <img src="https://img.shields.io/badge/Docker-F5EBDD?style=for-the-badge&logo=docker&logoColor=9B2C2C"/>
-<img src="https://img.shields.io/badge/VS%20Code-F5EBDD?style=for-the-badge&logo=visual-studio-code&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/VS_Code-F5EBDD?style=for-the-badge&logo=visual--studio--code&logoColor=9B2C2C"/>
 </p>
 
-### Languages of Construction
+### 02 / Languages of Construction
 
-*The languages I use to turn ideas into interfaces, systems, and things that actually work.*
+*The languages I use to turn ideas into interfaces, systems and functioning things.*
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-F5EBDD?style=for-the-badge&logo=openjdk&logoColor=9B2C2C"/>
@@ -135,59 +183,201 @@ const interests = {
 <img src="https://img.shields.io/badge/SQL-F5EBDD?style=for-the-badge&logo=postgresql&logoColor=9B2C2C"/>
 </p>
 
-### Systems & Tools
+### 03 / Systems & Tools
 
-*Beyond the code the tools I use to think, organise, design, document, and bring ideas into the world.*
+*The software around the software—the things I use to think, organise, design, document and collaborate.*
 
 <p align="left">
+<img src="https://img.shields.io/badge/GitHub-F5EBDD?style=for-the-badge&logo=github&logoColor=9B2C2C"/>
 <img src="https://img.shields.io/badge/Notion-F5EBDD?style=for-the-badge&logo=notion&logoColor=9B2C2C"/>
 <img src="https://img.shields.io/badge/Storybook-F5EBDD?style=for-the-badge&logo=storybook&logoColor=9B2C2C"/>
 <img src="https://img.shields.io/badge/Styled--Components-F5EBDD?style=for-the-badge&logo=styled-components&logoColor=9B2C2C"/>
 <img src="https://img.shields.io/badge/Jest-F5EBDD?style=for-the-badge&logo=jest&logoColor=9B2C2C"/>
-<img src="https://img.shields.io/badge/GitHub-F5EBDD?style=for-the-badge&logo=github&logoColor=9B2C2C"/>
 </p>
-<img src="https://readme-stats-theta-sepia.vercel.app/api/terminal?username=Ayesha-Nayaab-Nadeem" />
+
+<br>
+
+
+I move naturally between technical and creative work.
+
+One day that means designing a component system.
+Another, writing an API.
+Another, thinking about typefaces, medieval architecture, astronomy, or why an old handwritten letter somehow feels more alive than most modern interfaces.
+
+I like **precision with personality**.
+
+<br>
+
+
+---
+
+# SELECTED WORK
+
+<div align="right">
+
+<sub>NO. 03  ·  PROJECTS  ·  THINGS MADE</sub>
+
+</div>
+
+<br>
+
+### A small archive of experiments, systems and finished things.
+
+> **The Interface Study**
+> An exploration of interface, typography, motion and digital atmosphere.
+> *Design × Engineering*
+
+> **Project 02**
+> A full-stack system built around clarity, performance and thoughtful interaction.
+> *Engineering × Systems*
+
+> **Project 03**
+> A visual experiment somewhere between technology and editorial design.
+> *Creative Technology*
+
+> **Project 04**
+> An ongoing investigation into making complex information feel simple.
+> *UX × Architecture*
+
+<br>
+
+*More work is being documented.*
+
+---
+
+# STUDIO NOTES
+
+<div align="right">
+
+<sub>NO. 04  ·  OBSERVATIONS  ·  CURRENT THINKING</sub>
+
+</div>
+
+<br>
+
+### On making things
+
+I believe good software is not merely functional.
+
+It has rhythm.
+
+It has hierarchy.
+It has restraint.
+It has moments of surprise.
+
+Engineering gives an idea **structure**.
+
+Design gives it **character**.
+
+The interesting work happens somewhere between the two.
+
+<br>
+
+### Currently
+
+```text
+BUILDING     →  software, interfaces, systems
+LEARNING     →  better architecture & better questions
+EXPLORING    →  creative technology
+READING      →  philosophy, art, old things
+THINKING     →  how digital spaces can feel more human
+```
 
 <br>
 
 ---
-# STUDIO NOTES
+
+# CORRESPONDENCE
+
 <div align="right">
 
-<sub>NO. 02  ·  CONNECT  ·  INFO </sub>
+<sub>NO. 06  ·  CONTACT  ·  OPEN CHANNEL</sub>
 
 </div>
 
-### Correspondence
+<br>
 
 *For opportunities, collaborations, curious conversations, or simply saying hello.*
 
-<p><a href="https://github.com/[USERNAME]"><img src="./assets/link-github.svg" alt="GITHUB" width="24.6%"></a><a href="https://www.linkedin.com/in/[HANDLE]"><img src="./assets/link-linkedin.svg" alt="LINKEDIN" width="24.6%"></a><a href="https://[YOUR-SITE]"><img src="./assets/link-portfolio.svg" alt="PORTFOLIO" width="24.6%"></a><a href="mailto:[YOU@EXAMPLE.COM]"><img src="./assets/link-email.svg" alt="EMAIL" width="24.6%"></a></p>
+<br>
 
 <p align="center">
-  <img src="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Ayesha-Nayaab-Nadeem" width="100%" />
+
+<a href="https://github.com/[USERNAME]">
+<img src="./assets/link-github.svg" alt="GITHUB" width="24%">
+</a>
+
+<a href="https://www.linkedin.com/in/[HANDLE]">
+<img src="./assets/link-linkedin.svg" alt="LINKEDIN" width="24%">
+</a>
+
+<a href="https://[YOUR-SITE]">
+<img src="./assets/link-portfolio.svg" alt="PORTFOLIO" width="24%">
+</a>
+
+<a href="mailto:[YOU@EXAMPLE.COM]">
+<img src="./assets/link-email.svg" alt="EMAIL" width="24%">
+</a>
+
 </p>
 
-<img src="./assets/colophon.svg" alt="A.Y. / Digital Craft. Copyright 2026." width="100%">
+<p align="center">
 
+</p>
+
+# LAB
+
+<div align="right">
+
+<sub>NO. 05  ·  ACTIVITY  ·  THE DIGITAL WORKBENCH</sub>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-stats-theta-sepia.vercel.app/api/terminal?username=Ayesha-Nayaab-Nadeem" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Ayesha-Nayaab-Nadeem" width="100%">
+</p>
+
+<br>
+
+<img src="./assets/colophon.svg" alt="A.Y. / Digital Craft. Copyright 2026." width="100%">
 
 <details>
 <summary><sub>PLAIN TEXT VERSION</sub></summary>
 
-**Software engineer + creative designer.** Issue 01, Vol. 01, 2026. Currently building.
+<br>
 
-**I build what people feel.** I work where engineering meets visual culture: systems, interaction, typography, motion, interfaces, architecture, usability and visual storytelling. Rigorous underneath. Considered on the surface.
+**Ayesha Nayaab Nadeem — Software Engineer & Creative Designer**
 
-**Profile.** [NAME] is a software engineer and creative designer. Based in [CITY, COUNTRY]. Focus: [FOCUS AREA]. Discipline: engineering x design.
+Issue 01 · Studio Archive · 2026
 
-**The craft.** Languages: JavaScript, TypeScript, Python. Frameworks: React, Next.js. Systems: APIs, architecture, databases, cloud. Design: Figma, typography, motion, design systems.
+I build software with an eye for detail. My work sits between engineering, design, systems and visual storytelling.
 
-**Selected work.** Four projects, plus a featured piece (The Interface Study). See the linked images above.
+I enjoy taking complicated things apart, finding the essential structure, and rebuilding them into experiences that feel clear, useful and considered.
 
-**Code has aesthetics.** Engineering gives the system structure. Design gives it character.
+**Practice**
 
-**Now.** Building: [..]. Learning: [..]. Experimenting with: [..]. Thinking about: [..].
+Languages: Java, Python, JavaScript, HTML, CSS, SQL.
 
-**Contact.** GitHub, LinkedIn, portfolio, email. A.Y. / Digital Craft. 2026.
+Technologies & tools: React, TypeScript, Flask, Docker, Git, GitHub, Storybook, Jest, Styled Components, Notion, VS Code.
+
+**Interests**
+
+Writing, painting, illustration, mixed media, astronomy, medieval architecture, Renaissance art, philosophy, chess, horse riding, archery, old letters and historical systems of writing.
+
+**Currently**
+
+Building software and interfaces. Learning better architecture. Exploring creative technology. Thinking about how digital spaces can feel more human.
+
+**Contact**
+
+GitHub · LinkedIn · Portfolio · Email
+
+A.Y. / Digital Craft · 2026
 
 </details>
