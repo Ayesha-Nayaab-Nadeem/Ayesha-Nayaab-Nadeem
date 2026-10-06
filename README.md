@@ -32,7 +32,12 @@
 
 I'm a **software engineer and creative designer** interested in the space where technology meets visual culture. I like complicated things. Not because they should stay complicated—but because there is something satisfying about taking them apart, finding the structure underneath, and rebuilding them into something **clear, useful, expressive and quietly beautiful.** My work sits somewhere between:
 
-`ENGINEERING`    `DESIGN`    `SYSTEMS`    `STORYTELLING`
+<p align="center">
+  <img src="https://img.shields.io/badge/ENGINEERING-F5EBDD?style=for-the-badge&labelColor=F5EBDD&color=F5EBDD&logoColor=9B2C2C"/>
+  <img src="https://img.shields.io/badge/DESIGN-F5EBDD?style=for-the-badge&labelColor=F5EBDD&color=F5EBDD&logoColor=9B2C2C"/>
+  <img src="https://img.shields.io/badge/SYSTEMS-F5EBDD?style=for-the-badge&labelColor=F5EBDD&color=F5EBDD&logoColor=9B2C2C"/>
+  <img src="https://img.shields.io/badge/STORYTELLING-F5EBDD?style=for-the-badge&labelColor=F5EBDD&color=F5EBDD&logoColor=9B2C2C"/>
+</p>
 
 I care about architecture, interaction, typography, accessibility, visual systems, and the tiny details most people never notice. And yes, I have absolutely spent too long fixing a 2px alignment.
 
@@ -247,7 +252,9 @@ THINKING     →  how digital spaces can feel more human
 
 </p>
 
-<img src="./assets/colophon.svg" alt="A.Y. / Digital Craft. Copyright 2026." width="100%">
+<p align="center">
+  <img src="./assets/terinal_banner.png" alt="Banner" width="100%">
+</p>
 
 <details>
 <summary><sub>PLAIN TEXT VERSION</sub></summary>
