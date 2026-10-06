@@ -11,7 +11,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=GREETINGS!+;HELLO+WORLD!+;&center=true&size=30&color=c1121f&font=Playfair+Display">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=GREETINGS!+;HELLO+WORLD!+;&center=true&size=35&color=c1121f&font=Playfair+Display">
   </a>
 </h1>
 
@@ -22,7 +22,7 @@
 
 <div align="right">
 
-<sub>NO. 001  ·  ABOUT ME  ·  ANN </sub>
+<sub>NO. 00  ·  INTRODUCTION  ·  ME </sub>
 
 </div>
 
@@ -67,46 +67,55 @@ I build software with the same instinct I bring to design: **notice the detail.*
                                                                                                             ·  · ····   ···
 </pre>
 
-```javascript
+# 01 / PROFILE
 
-const ayesha = {
-  pronouns: "she" | "her",
-  code: [Java, Python, JavaScript, HTML, CSS, SQL],
-  tools: [Git, Flask, React, TypeScript],
-  interests: ["UX", "Cybersecurity", "Architecture", "Human-Centred Design"],
-  building: "Eeunoia: a smarter way to organise your thoughts",
-  mindset: "I build the things I wish existed."
-}
+<div align="right">
 
-```
+<sub>NO. 01  ·  ABOUT ME  ·  SELF </sub>
 
+# 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮<br>
+
+# 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮
+
+</div>
+
+<br>
 
 <pre>
     __________
  / ___  ___ \
 / / @ \/ @ \ \
 \ \___/\___/ /\
- \____\/____/||
+ \____\/____/||  
  /     /\\\\\//
  |     |\\\\\\
   \      \\\\\\
    \______/\\\\
     _||_||_
      -- --
-
 </pre>
 
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+```javascript
 
-<h3 align="center"> Favorite Languages:</h3>
-<p align="center">
+const interests = {
+  writes: ["poetry", "fiction", "essays", "journals"],
+  creates: ["paint", "illustration", "mixed media"],
+  fascinatedBy: ["astronomy", "medieval architecture", "renaissance art", "philosophy"],
+  enjoys: ["chess", "horse riding", "archery", "old letters"],
+  deciphers: ["BSL", "Morse", "A1Z26", "shorthand"],
+  funFact: "I am an ambidextrous"
+}
+
+```
+
+<h3 align="left"> Favorite Languages:</h3>
+<p align="left">
 <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=red"/></a> 
 </p>
-<h3 align="center">⚒ Tools I use:</h3>
-<p align="center">
+
+<h3 align="left"> Tools I use:</h3>
+<p align="left">
 <a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
 <a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
@@ -115,17 +124,7 @@ const ayesha = {
 <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
 </p>
-<h3 align="center">Find me on</h3>
-<p align="center"><a 
-href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" 
-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
-href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
-src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
-href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /></a> 
-</p>
+
 I've spent most of my time as a developer working with:
 
 - <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django [parler / tenants] -- Flask -- Celery -- Unittests -- Typing-grey" alt="Django (parler, tenants), Flask, Celery, Unittests, Typing">
@@ -136,6 +135,11 @@ I also have experience with:
 - <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
 - <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
 - <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
+
+<h3 align="left">Find me on</h3>
+<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 <a href="https://medium.com/">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
@@ -198,19 +202,7 @@ I also have experience with:
 
 ---
 
-# 01 / PROFILE
 
-<br>
-
-<div align="right">
-
-# 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮<br>
-
-# 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮
-
-</div>
-
-<br>
 
 
 # STUDIO NOTES
