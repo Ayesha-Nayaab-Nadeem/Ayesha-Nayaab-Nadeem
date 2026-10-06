@@ -14,11 +14,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=GREETINGS!+;HELLO+WORLD!+;&center=true&size=35&color=c1121f&font=Playfair+Display">
   </a>
 </h1>
-
-### AYESHA NAYAAB NADEEM
-
 </div>
 
+# AYESHA NAYAAB NADEEM
 
 <div align="right">
 
@@ -26,17 +24,20 @@
 
 </div>
 
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<a name="top"></a>
+<div align="left">
+
 <div>
 
 <br>
-
 I build software with the same instinct I bring to design: **notice the detail.** I'm a software engineer and creative designer interested in the space where systems become experiences. I like taking complicated things apart, finding the essential structure, then rebuilding them into something that feels obvious, useful and quietly beautiful. I care about architecture. I care about typography. I care about interaction. And, occasionally, I care far too much about a 2px alignment.
 
-<div align="left">
+
 
 `ENGINEER`  `CREATIVE DIRECTOR`  `FULL STACK`
 
-</div>
 </div>
 
 
@@ -67,11 +68,11 @@ I build software with the same instinct I bring to design: **notice the detail.*
                                                                                                             ·  · ····   ···
 </pre>
 
-# 01 / PROFILE
+# PROFILE 
 
 <div align="right">
 
-<sub>NO. 01  ·  ABOUT ME  ·  SELF </sub>
+<sub>NO. 01  ·  ABOUT ME  ·  PERSONNEL </sub>
 
 # 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮<br>
 
@@ -108,104 +109,65 @@ const interests = {
 
 ```
 
-<h3 align="left"> Favorite Languages:</h3>
+### Digital Practice
+
+*A selection of tools that shape my day-to-day practice from writing software to designing the systems around it.*
+
 <p align="left">
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=red"/></a> 
+<img src="https://img.shields.io/badge/React-F5EBDD?style=for-the-badge&logo=react&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/TypeScript-F5EBDD?style=for-the-badge&logo=typescript&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/Flask-F5EBDD?style=for-the-badge&logo=flask&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/Git-F5EBDD?style=for-the-badge&logo=git&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/Docker-F5EBDD?style=for-the-badge&logo=docker&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/VS%20Code-F5EBDD?style=for-the-badge&logo=visual-studio-code&logoColor=9B2C2C"/>
 </p>
 
-<h3 align="left"> Tools I use:</h3>
+### Languages of Construction
+
+*The languages I use to turn ideas into interfaces, systems, and things that actually work.*
+
 <p align="left">
-<a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
-<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
-<a target="_blank"><img alt="Report Builder" src="https://img.shields.io/badge/Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+<img src="https://img.shields.io/badge/Java-F5EBDD?style=for-the-badge&logo=openjdk&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/Python-F5EBDD?style=for-the-badge&logo=python&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/JavaScript-F5EBDD?style=for-the-badge&logo=javascript&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/HTML5-F5EBDD?style=for-the-badge&logo=html5&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/CSS3-F5EBDD?style=for-the-badge&logo=css3&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/SQL-F5EBDD?style=for-the-badge&logo=postgresql&logoColor=9B2C2C"/>
 </p>
 
-I've spent most of my time as a developer working with:
+### Systems & Tools
 
-- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django [parler / tenants] -- Flask -- Celery -- Unittests -- Typing-grey" alt="Django (parler, tenants), Flask, Celery, Unittests, Typing">
-- <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
+*Beyond the code the tools I use to think, organise, design, document, and bring ideas into the world.*
 
-I also have experience with:
-
-- <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
-- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
-- <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
-
-<h3 align="left">Find me on</h3>
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
-
-<a href="https://medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
-</a>
-<a href="https://www.zhihu.com/people/zhen-liang-liao-62">
-  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
-<a href="https://leetcode-cn.com/u/Jack_yu-1999/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://github.com/yzp-99/">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
-</a>
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+<p align="left">
+<img src="https://img.shields.io/badge/Notion-F5EBDD?style=for-the-badge&logo=notion&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/Storybook-F5EBDD?style=for-the-badge&logo=storybook&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/Styled--Components-F5EBDD?style=for-the-badge&logo=styled-components&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/Jest-F5EBDD?style=for-the-badge&logo=jest&logoColor=9B2C2C"/>
+<img src="https://img.shields.io/badge/GitHub-F5EBDD?style=for-the-badge&logo=github&logoColor=9B2C2C"/>
 </p>
-
-<div align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-  
-</div>
-
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-<a name="top"></a>
-
-<p><a href="https://github.com/[USERNAME]"><img src="./assets/link-github.svg" alt="GITHUB" width="24.6%"></a><a href="https://www.linkedin.com/in/[HANDLE]"><img src="./assets/link-linkedin.svg" alt="LINKEDIN" width="24.6%"></a><a href="https://[YOUR-SITE]"><img src="./assets/link-portfolio.svg" alt="PORTFOLIO" width="24.6%"></a><a href="mailto:[YOU@EXAMPLE.COM]"><img src="./assets/link-email.svg" alt="EMAIL" width="24.6%"></a></p>
-
-<img src="./assets/colophon.svg" alt="A.Y. / Digital Craft. Copyright 2026." width="100%">
 
 <br>
 
 ---
-
-
-
-
 # STUDIO NOTES
+<div align="right">
+
+<sub>NO. 02  ·  CONNECT  ·  INFO </sub>
+
+</div>
+
+### Correspondence
+
+*For opportunities, collaborations, curious conversations, or simply saying hello.*
+
+<p><a href="https://github.com/[USERNAME]"><img src="./assets/link-github.svg" alt="GITHUB" width="24.6%"></a><a href="https://www.linkedin.com/in/[HANDLE]"><img src="./assets/link-linkedin.svg" alt="LINKEDIN" width="24.6%"></a><a href="https://[YOUR-SITE]"><img src="./assets/link-portfolio.svg" alt="PORTFOLIO" width="24.6%"></a><a href="mailto:[YOU@EXAMPLE.COM]"><img src="./assets/link-email.svg" alt="EMAIL" width="24.6%"></a></p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha-Nayaab-Nadeem&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+<img src="./assets/colophon.svg" alt="A.Y. / Digital Craft. Copyright 2026." width="100%">
 
 
 
