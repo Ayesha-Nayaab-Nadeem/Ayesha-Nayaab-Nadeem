@@ -172,10 +172,6 @@ Another, thinking about typefaces, medieval architecture, astronomy, or why an o
 
 I like **precision with personality**.
 
-<p align="center">
-  <img src="https://readme-stats-theta-sepia.vercel.app/api/terminal?username=Ayesha-Nayaab-Nadeem" width="100%">
-</p>
-
 <br>
 
 # STUDIO NOTES
@@ -186,35 +182,9 @@ I like **precision with personality**.
 
 </div>
 
-<br>
-
-### On making things
-
-I believe good software is not merely functional.
-
-It has rhythm.
-
-It has hierarchy.
-It has restraint.
-It has moments of surprise.
-
-Engineering gives an idea **structure**.
-
-Design gives it **character**.
-
-The interesting work happens somewhere between the two.
-
-<br>
-
-### Currently
-
-```text
-BUILDING     →  software, interfaces, systems
-LEARNING     →  better architecture & better questions
-EXPLORING    →  creative technology
-READING      →  philosophy, art, old things
-THINKING     →  how digital spaces can feel more human
-```
+<p align="center">
+  <img src="https://readme-stats-theta-sepia.vercel.app/api/terminal?username=Ayesha-Nayaab-Nadeem&theme=bg" width="100%">
+</p>
 
 <br>
 
