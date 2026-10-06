@@ -218,9 +218,7 @@ I like **precision with personality**.
 
 <a href="mailto:[YOU@EXAMPLE.COM]">
 <img src="./assets/link-email.svg" alt="EMAIL" width="24%">
-</a>
-
-</p>
+</a> </p>
 
 <p align="center">
   <img src="./assets/terminal_banner.png" alt="Banner" width="100%">
