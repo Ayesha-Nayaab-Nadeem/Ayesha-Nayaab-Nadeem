@@ -39,12 +39,9 @@
   <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
-
 <div align="center">
 
 <sub>ISSUE 01  ·  STUDIO ARCHIVE  ·  2026</sub>
-
-<br><br>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -147,6 +144,8 @@ const interests = {
 
 ```
 
+<br>
+
 # THE PRACTICE
 
 <div align="right">
@@ -154,8 +153,6 @@ const interests = {
 <sub>NO. 02  ·  CAPABILITIES  ·  THE WORKBENCH</sub>
 
 </div>
-
-<br>
 
 ### 01 / Digital Practice
 
@@ -197,7 +194,6 @@ const interests = {
 
 <br>
 
-
 I move naturally between technical and creative work.
 
 One day that means designing a component system.
@@ -207,9 +203,6 @@ Another, thinking about typefaces, medieval architecture, astronomy, or why an o
 I like **precision with personality**.
 
 <br>
-
-
----
 
 # SELECTED WORK
 
@@ -242,8 +235,6 @@ I like **precision with personality**.
 <br>
 
 *More work is being documented.*
-
----
 
 # STUDIO NOTES
 
@@ -284,8 +275,6 @@ THINKING     →  how digital spaces can feel more human
 ```
 
 <br>
-
----
 
 # CORRESPONDENCE
 
