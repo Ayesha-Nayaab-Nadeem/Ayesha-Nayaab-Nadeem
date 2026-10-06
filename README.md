@@ -1,40 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
@@ -105,7 +68,9 @@ I care about architecture, interaction, typography, accessibility, visual system
                                                                                                             ·  · ····   ···
 </pre>
 
-# PROFILE 
+<br>
+
+# PROFILE
 
 <div align="right">
 
@@ -146,7 +111,7 @@ const interests = {
 
 <br>
 
-# THE PRACTICE
+# SELECTED WORK
 
 <div align="right">
 
@@ -236,6 +201,8 @@ I like **precision with personality**.
 
 *More work is being documented.*
 
+<br>
+
 # STUDIO NOTES
 
 <div align="right">
@@ -314,6 +281,8 @@ THINKING     →  how digital spaces can feel more human
 
 </p>
 
+<br>
+
 # LAB
 
 <div align="right">
@@ -322,8 +291,6 @@ THINKING     →  how digital spaces can feel more human
 
 </div>
 
-<br>
-
 <p align="center">
   <img src="https://readme-stats-theta-sepia.vercel.app/api/terminal?username=Ayesha-Nayaab-Nadeem" width="100%">
 </p>
@@ -331,8 +298,6 @@ THINKING     →  how digital spaces can feel more human
 <p align="center">
   <img src="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Ayesha-Nayaab-Nadeem" width="100%">
 </p>
-
-<br>
 
 <img src="./assets/colophon.svg" alt="A.Y. / Digital Craft. Copyright 2026." width="100%">
 
