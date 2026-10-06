@@ -111,7 +111,7 @@ const interests = {
 
 <br>
 
-# SELECTED WORK
+# THE PRACTICE
 
 <div align="right">
 
@@ -167,39 +167,9 @@ Another, thinking about typefaces, medieval architecture, astronomy, or why an o
 
 I like **precision with personality**.
 
-<br>
-
-# SELECTED WORK
-
-<div align="right">
-
-<sub>NO. 03  ·  PROJECTS  ·  THINGS MADE</sub>
-
-</div>
-
-<br>
-
-### A small archive of experiments, systems and finished things.
-
-> **The Interface Study**
-> An exploration of interface, typography, motion and digital atmosphere.
-> *Design × Engineering*
-
-> **Project 02**
-> A full-stack system built around clarity, performance and thoughtful interaction.
-> *Engineering × Systems*
-
-> **Project 03**
-> A visual experiment somewhere between technology and editorial design.
-> *Creative Technology*
-
-> **Project 04**
-> An ongoing investigation into making complex information feel simple.
-> *UX × Architecture*
-
-<br>
-
-*More work is being documented.*
+<p align="center">
+  <img src="https://readme-stats-theta-sepia.vercel.app/api/terminal?username=Ayesha-Nayaab-Nadeem" width="100%">
+</p>
 
 <br>
 
@@ -275,28 +245,6 @@ THINKING     →  how digital spaces can feel more human
 <img src="./assets/link-email.svg" alt="EMAIL" width="24%">
 </a>
 
-</p>
-
-<p align="center">
-
-</p>
-
-<br>
-
-# LAB
-
-<div align="right">
-
-<sub>NO. 05  ·  ACTIVITY  ·  THE DIGITAL WORKBENCH</sub>
-
-</div>
-
-<p align="center">
-  <img src="https://readme-stats-theta-sepia.vercel.app/api/terminal?username=Ayesha-Nayaab-Nadeem" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Ayesha-Nayaab-Nadeem" width="100%">
 </p>
 
 <img src="./assets/colophon.svg" alt="A.Y. / Digital Craft. Copyright 2026." width="100%">
