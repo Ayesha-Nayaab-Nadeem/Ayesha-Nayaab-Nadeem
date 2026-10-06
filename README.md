@@ -146,6 +146,7 @@ const interests = {
 <img src="https://img.shields.io/badge/Jest-F5EBDD?style=for-the-badge&logo=jest&logoColor=9B2C2C"/>
 <img src="https://img.shields.io/badge/GitHub-F5EBDD?style=for-the-badge&logo=github&logoColor=9B2C2C"/>
 </p>
+<img src="https://readme-stats-theta-sepia.vercel.app/api/terminal?username=Ayesha-Nayaab-Nadeem" />
 
 <br>
 
@@ -164,11 +165,10 @@ const interests = {
 <p><a href="https://github.com/[USERNAME]"><img src="./assets/link-github.svg" alt="GITHUB" width="24.6%"></a><a href="https://www.linkedin.com/in/[HANDLE]"><img src="./assets/link-linkedin.svg" alt="LINKEDIN" width="24.6%"></a><a href="https://[YOUR-SITE]"><img src="./assets/link-portfolio.svg" alt="PORTFOLIO" width="24.6%"></a><a href="mailto:[YOU@EXAMPLE.COM]"><img src="./assets/link-email.svg" alt="EMAIL" width="24.6%"></a></p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha-Nayaab-Nadeem&theme=github-compact&hide_border=true&area=true" width="100%" />
+  <img src="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Ayesha-Nayaab-Nadeem" width="100%" />
 </p>
 
 <img src="./assets/colophon.svg" alt="A.Y. / Digital Craft. Copyright 2026." width="100%">
-
 
 
 <details>
