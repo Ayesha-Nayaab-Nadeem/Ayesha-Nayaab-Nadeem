@@ -152,7 +152,7 @@ const interests = {
 
 ### 03 / Systems & Tools
 
-*The software around the software—the things I use to think, organise, design, document and collaborate.*
+*The software around the software the things I use to think, organise, design, document and collaborate.*
 
 <p align="left">
 <img src="https://img.shields.io/badge/GitHub-F5EBDD?style=for-the-badge&logo=github&logoColor=9B2C2C"/>
@@ -229,7 +229,7 @@ I like **precision with personality**.
 
 <br>
 
-**Ayesha Nayaab Nadeem — Software Engineer & Creative Designer**
+**Ayesha Nayaab Nadeem: Software Engineer & Creative Designer**
 
 Issue 01 · Studio Archive · 2026
 
